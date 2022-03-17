@@ -1,5 +1,7 @@
 <h1> TITAN </h1>
 
+[![Coverage Status](https://coveralls.io/repos/github/UriAceves/TITAN/badge.svg?branch=master)](https://coveralls.io/github/UriAceves/TITAN?branch=master)
+
 **TI**me-dependent 
 **T**ransport and
 **A**ngular momentum of
